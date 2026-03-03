@@ -49,7 +49,7 @@ This chatbot responds to basic user queries using predefined rules and dictionar
 3. Run the file:
 
    ```bash
-   project2.py
+   projectChatBot.py
    ```
 
 ---
@@ -94,6 +94,7 @@ Bot Response: Hi, Welcome How can I help you?
 ## 💡 Author
 
 Swapnil Sharma
+---
 Software Engineer 🚀
 
 ---
